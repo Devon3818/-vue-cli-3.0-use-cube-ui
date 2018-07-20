@@ -1,2 +1,21 @@
-# -vue-cli-3.0-use-cube-ui
-[vue-cli@3.0] 如何搭配使用cube-ui
+# my-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
